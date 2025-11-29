@@ -7,7 +7,7 @@
 
 # jobs:
 #   deploy:
-#     runs-on: ostad  # fixed
+#     runs-on: tajul  # fixed
 
 #     steps:
 #       - name: Checkout code
